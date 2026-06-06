@@ -1,0 +1,9 @@
+.env
+.venv/
+node_modules/
+.next/
+dist/
+build/
+__pycache__/
+results/
+*.log
